@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://flolap123:557175@contact-keeper-tlcb4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
